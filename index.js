@@ -1,5 +1,5 @@
 AOS.init();
-const quoteUrl="https://type.fit/api/quotes"
+const quoteUrl="https://dummyjson.com/quotes"
 let data="";
 const text=document.getElementById("quote")
 const author=document.getElementById("author")
